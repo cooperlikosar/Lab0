@@ -1,6 +1,6 @@
 ---
 title: "Lab 0 - Hello R!"
-author: "Cooper Likosar"
+author: "Cooper"
 date: "01/17/2023"
 format: pdf
 editor: visual
