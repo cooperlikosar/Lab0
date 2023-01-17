@@ -17,7 +17,7 @@ library(datasauRus)
 
 ## Exercise 1
 
-(Type your answer to exercise #1 here. Note this exercise doesn't require any R code.)
+There are 1846 rows. There are 3 variables which are the dataset, x-values, and y-values.
 
 ## Exercise 2
 
